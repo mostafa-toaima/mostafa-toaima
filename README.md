@@ -14,7 +14,7 @@
 
 - 🏢 I'm a Software Developer
 - 👨‍💻 As a BIS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript and Angular or anything related to Angula developer.
+- 💬 Ask me about my experience as a Full Stack Developer with anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
